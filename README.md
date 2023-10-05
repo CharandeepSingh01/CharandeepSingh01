@@ -96,7 +96,7 @@
         <img align="left" width=402 src="https://github-readme-streak-stats.herokuapp.com/?user=CharandeepSingh01&theme=radical&border=61dafb&hide_border=true" />
     </a>
     <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-        <img align="right" width=402 src="https://github-readme-stats.vercel.app/api?username=CharandeepSingh01&show_icons=true&theme=radical&border_color=61dafb&hide_border=true"/>
+        <img align="right" width=402 src="https://github-readme-stats.vercel.app/api?username=CharandeepSingh01&show_icons=true&theme=radical&border_color=61dafb&hide_border=true"/> 
     </a>
 </div>
 
