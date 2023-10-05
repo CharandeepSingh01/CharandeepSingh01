@@ -100,6 +100,10 @@
     </a>
 </div>
 
-<p align="center">
-        <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
-</p>
+<div align="center">
+    <img loading="lazy" width="100%" alt="colored gif" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=160&section=footer">
+</div>
+
+<div align="center">
+    <img loading="lazy" src="https://readme-typing-svg.demolab.com?font=Anton&weight=600&size=16&duration=2500&pause=1&color=00B8B5&center=true&vCenter=true&width=185&height=15&lines=%C2%A9+BUILD+WITH+%E2%9D%A4%EF%B8%8F;%C2%A9+BUILD+BY+CHARANDEEP" alt="build with love svg" />
+</div>
